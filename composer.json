@@ -1,0 +1,19 @@
+{
+    "name": "user/class-management",
+    "autoload": {
+        "psr-4": {
+            "Models\\": "models/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bmarcko",
+            "email": "cruz.bobbymarcko@auf.edu.ph"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.4",
+        "mustache/mustache": "~2.5"
+    }
+
+}
